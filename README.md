@@ -33,7 +33,7 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 |:mailbox_with_mail: [robotika-smkn1](https://github.com/robotika-smkn1)
 
 
-# [Donate](https://saweria.co/arthasyarif)
+# :moneybag: [Donate](https://saweria.co/arthasyarif)
 
 
 # Source Code
