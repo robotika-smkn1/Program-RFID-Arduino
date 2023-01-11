@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[http://i.imgur.com/rOqMdwp.png](https://avatars.githubusercontent.com/u/121282231?v=4)" alt="robotika smkn1 kotabekasi logo"/>
+  <img src="http://i.imgur.com/rOqMdwp.png](https://avatars.githubusercontent.com/u/121282231?v=4" alt="robotika smkn1 kotabekasi logo"/>
 </p>
 
 
