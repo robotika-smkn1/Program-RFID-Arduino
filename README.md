@@ -18,10 +18,10 @@
 ```
 /*
  * 
- * All the resources for this project: https://randomnerdtutorials.com/
- * Modified by Rui Santos
+ * All the resources for this project: smkn1kotabekasi.sch.id
+ * Modified by Robotika smkn1 kotabekasi
  * 
- * Created by FILIPEFLOP
+ * Created by Robotika smkn1 kotabekasi
  * 
  */
  
