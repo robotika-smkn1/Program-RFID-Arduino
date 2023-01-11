@@ -28,7 +28,7 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # Source Code
 
-```
+```bash
 /*
  * 
  * All the resources for this project: smkn1kotabekasi.sch.id
