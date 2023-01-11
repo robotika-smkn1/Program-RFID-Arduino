@@ -1,13 +1,12 @@
 
 <p align="center">
-  <img src="http://i.imgur.com/rOqMdwp.png" alt="msfpc logo"/>
+  <img src="[http://i.imgur.com/rOqMdwp.png](https://avatars.githubusercontent.com/u/121282231?v=4)" alt="robotika smkn1 kotabekasi logo"/>
 </p>
 
-<center>
+
 [![Version](https://img.shields.io/badge/VENOM-1.0.17-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 ![licence](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)
-
 [![Arduino Build Status](https://buildbot.aircrack-ng.org/badges/aircrack-ng-alpine.svg?left_text=Alpine%20Linux%20Build)](##Link##)
 [![Kali Linux Build Status](https://buildbot.aircrack-ng.org/badges/aircrack-ng-kali.svg?left_text=Kali%20Linux%20Build)](##Link##)
 [![Armel Kali Linux Build Status](https://buildbot.aircrack-ng.org/badges/aircrack-ng-armel.svg?left_text=Armel%20Kali%20Linux%20Build)](##Link##)
@@ -18,7 +17,7 @@
 [![OpenBSD 6 Build Status](https://buildbot.aircrack-ng.org/badges/aircrack-ng-obsd.svg?left_text=OpenBSD%20Build)](##Link##)
 [![NetBSD 8.1 Build Status](https://buildbot.aircrack-ng.org/badges/aircrack-ng-netbsd81.svg?left_text=NetBSD%20Build)](##Link##)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/aircrack-ng/badge.svg)](##Link##)
-  </center>
+
 
 # Program-RFID-Arduino
 
