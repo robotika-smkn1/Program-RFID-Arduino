@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121282231?v=4" alt="robotika smkn1 kotabekasi logo"/>
+  <img src="https://i.postimg.cc/vTY3Mjpb/logo.png" alt="robotika smkn1 kotabekasi logo"/>
 </p>
 
 
@@ -36,6 +36,13 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
+
+# :mag: Ilustrasi Arduino
+
+<p align="center">
+  <img src="https://i.postimg.cc/rwXkgHqp/ilus.webp"/>
+</p>
+
 
 
 # :clipboard: Source Code
