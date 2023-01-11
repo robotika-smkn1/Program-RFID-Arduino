@@ -37,10 +37,11 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
+
 # :mag: Ilustrasi Arduino
 
 <p align="center">
-  <img src="https://i.postimg.cc/rwXkgHqp/ilus.webp"/>
+  <img src="https://i.postimg.cc/rwXkgHqp/ilus.webp" style="height:205px;" "width:205px;"/>
 </p>
 
 
