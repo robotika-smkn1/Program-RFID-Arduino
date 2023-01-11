@@ -17,7 +17,7 @@
 
 To keep this collection up-to-date need contributors who can add more Program Arduino scripts and github repo here at one place.  
 ||
-|--------------|
+|-----Partner---------|
 |:octocat: [arthasa28](https://github.com/arthasa28)
 |:octocat: [Dickybulin26](https://github.com/Dickybulin26)
 |:octocat: [robotika-smkn1](https://github.com/robotika-smkn1)
