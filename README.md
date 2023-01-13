@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/vTY3Mjpb/logo.png" alt="robotika smkn1 kotabekasi logo"/>
+  <img src="https://i.postimg.cc/vTY3Mjpb/logo.png" alt="robotika smkn1 kotabekasi logo"/ style="height:400px;" "width: 400px;">
 </p>
 
 
