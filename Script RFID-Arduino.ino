@@ -1,9 +1,9 @@
 /*
  * 
- * All the resources for this project: https://randomnerdtutorials.com/
- * Modified by Rui Santos
+ * All the resources for this project: smkn1kotabekasi.sch.id
+ * Modified by Robotika smkn1 kotabekasi
  * 
- * Created by FILIPEFLOP
+ * Created by Robotika smkn1 kotabekasi
  * 
  */
  
@@ -49,15 +49,27 @@ void loop()
   Serial.println();
   Serial.print("Message : ");
   content.toUpperCase();
-  if (content.substring(1) == "08 8E 73 A0") //change here the UID of the card/cards that you want to give access
+  if (content.substring(1) == "45 DE D2 2A") //change here the UID of the card/cards that you want to give access
     {
-    Serial.println("Authorized access");
-    Serial.println();
+    Serial.println("Selamat Datang Dicky!");
+    Serial.println("Selamat Datang Dikelas Robotika Smkn1");
     delay(3000);
   }
- 
- else   {
-    Serial.println(" Access denied");
+  
+  else if(content.substring(1) == "55 29 92 2A"){
+    Serial.println("Selamat Datang Rahmat!");
+    Serial.println("Selamat Datang Dikelas Robotika Smkn1");
+    delay(3000);
+  }
+
+  else if(content.substring(1) == "B0 24 7E 32"){
+    Serial.println("Selamat Datang Artha!");
+    Serial.println("Selamat Datang Dikelas Robotika Smkn1");
+    delay(3000);
+  }
+
+  else{
+    Serial.println("Anda Dilarang Masuk");
     delay(3000);
   }
 } 
