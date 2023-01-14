@@ -37,6 +37,11 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
+# :briefcase: Barang & Bahan
+- Arduino Uno
+- Rfid Reader
+- Rfid Card
+- Kabel Female & Male
 
 # :mag: Ilustrasi Arduino
 
